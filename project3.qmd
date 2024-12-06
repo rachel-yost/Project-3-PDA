@@ -1,5 +1,5 @@
 ---
-title: "Simulation Study to Optimize Cluster Size and Number of Clusters Given Budget Constraints for a Cluster RCT"
+title: "Simulation Study to Optimize Cluster Size and Number of Clusters Given Budget Constraints for a Cluster Randomized Controlled Trial"
 author: "Rachel Yost"
 date: "2024-12-05"
 format:
