@@ -1,6 +1,6 @@
 # Project-3-PDA
 
-# Simulation Study to Optimize Cluster Size and Number of Clusters Given Budget Constraints for a Cluster RCT
+# Simulation Study to Optimize Cluster Size and Number of Clusters Given Budget Constraints for a Cluster Randomized Controlled Trial
 
 
 ### Abstract
