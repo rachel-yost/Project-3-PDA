@@ -31,7 +31,7 @@ of clusters decreases.
 
 `Project3.pdf`: The final PDF file containing my report.
 
-`Simulation_Results`: Folder containing the csv files from our simulations
+`Sim_Results`: Folder containing the csv files from our simulations
 
 ### Dependencies
 
